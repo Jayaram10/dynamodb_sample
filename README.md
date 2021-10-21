@@ -2,6 +2,7 @@
 
 Make sure Docker desktop is installed <br />
 Install Flask using ```pip install Flask``` <br />
+Install Boto3 using ```pip install boto3``` <br />
 Pull the latest dynamodb-local using ```docker pull amazon/dynamodb-local```
 
 **Working steps**<br />
