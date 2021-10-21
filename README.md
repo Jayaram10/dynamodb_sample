@@ -1,4 +1,6 @@
 **Prerequisites**<br />
+
+Make sure Docker desktop is installed <br />
 Install Flask using ```pip install Flask``` <br />
 Pull the latest dynamodb-local using ```docker pull amazon/dynamodb-local```
 
